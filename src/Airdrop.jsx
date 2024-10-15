@@ -27,9 +27,9 @@ export default function Airdrop() {
     }
 
     return (
-        <div className="bg-white p-6 shadow-md rounded-lg max-w-md mx-auto">
-            <h2 className="text-2xl font-bold mb-4 text-gray-800">Airdrop SOL</h2>
-            <p className="text-gray-600 mb-4">
+        <div className="z-10 bg-black p-6 shadow-md rounded-lg max-w-md mx-auto">
+            <h2 className="text-2xl font-bold mb-4 text-white">Airdrop SOL</h2>
+            <p className="text-white mb-4">
                 Send SOL to your wallet for testing purposes. Make sure your wallet is connected.
             </p>
             <div className="flex flex-col space-y-4">
